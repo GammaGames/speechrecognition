@@ -14,6 +14,6 @@ pip3 install SpeechRecognition
 
 To run the script use 
 ```
-python3 speech.py <file> <length>*
+python3 sr.py <file> <length>*
 ```
 The script will create a folder based on the file's name in the current working directory (normally the script's location) and save the split text into the folder. The text will be labeled with each text file for the corrosponding text.
